@@ -154,3 +154,6 @@ body{
     margin-right: auto;
     margin-top: 10px;
   }
+iframe{
+    display: block;
+}
